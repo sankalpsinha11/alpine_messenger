@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045965202970",
+    "firebase_url": "https://alpinemessenger-16bb3.firebaseio.com",
+    "project_id": "alpinemessenger-16bb3",
+    "storage_bucket": "alpinemessenger-16bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045965202970:android:e9e4710ea6c44aa1f713a3",
+        "android_client_info": {
+          "package_name": "com.sankalpsinha.alpinemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045965202970-a56igtluau1kacfruumficdni4qbidp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2HruRwOdrYXbfmHjrMaTTHGeFaQqL2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045965202970-a56igtluau1kacfruumficdni4qbidp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
